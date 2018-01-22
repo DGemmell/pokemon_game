@@ -1,1 +1,1 @@
-attack: thunderbolt
+attack: thunderbolts
